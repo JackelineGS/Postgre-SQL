@@ -56,6 +56,3 @@ WHERE viaje.id IS NULL;
 	
 	
 	
-	
-	
-	
