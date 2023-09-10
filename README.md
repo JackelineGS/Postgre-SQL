@@ -4,3 +4,4 @@ En este proyecto presentaremos el funcionamiento de un sistema de trenes, para e
 Este repositorio contiene código de SQL para una base de datos de viajes.
 ## Lenguajes
 * SQL
+* PLPGSQL
